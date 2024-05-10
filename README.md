@@ -9,3 +9,22 @@ Meu nome é Kisakedosbom
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
  ![](https://media1.tenor.com/m/Mt-_YGRlP5IAAAAd/jjk-gojo-satoru.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+}
